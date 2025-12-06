@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" src="https://i.imgur.com/Zy0Q8B2.png" alt="Data Science Banner" width="100%"/>
+<img align="center" src="https://github.com/sharanya-sripada/sharanya-sripada/blob/main/chatGPT-GitHub-banner.jpg" alt="Data Science Banner" width="100%"/>
 
 <h1 align="center">Hi There! 👋</h1>
 <h3 align="center">I'm <strong>Laxmi Sharanya Sripada</strong> — Aspiring Data Scientist & AI Enthusiast</h3>
@@ -49,14 +49,6 @@ Full-stack platform integrated with an AI bot & advanced search for legal querie
 
 ### 🔹 **Fake News Detection (NLP + LSTM/BERT)** *(upcoming)*  
 Text classification system for identifying misinformation using advanced NLP.
-
----
-
-## 📊 **GitHub Analytics**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharanya-sripada&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanya-sripada&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
