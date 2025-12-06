@@ -1,8 +1,8 @@
 <!-- Banner -->
-<img align="center" src="https://github.com/sharanya-sripada/sharanya-sripada/blob/main/chatGPT-GitHub-banner.jpg" alt="Data Science Banner" width="100%"/>
+<img align="center" src="https://github.com/sharanya-sripada/sharanya-sripada/blob/main/chatGPT-GitHub-banner.jpg" width="100%"/>
 
 <h1 align="center">Hi There! 👋</h1>
-<h3 align="center">I'm <strong>Laxmi Sharanya Sripada</strong> — Aspiring Data Scientist & AI Enthusiast</h3>
+<h3 align="center">I'm <strong>Laxmi Sharanya Sripada</strong>  Aspiring Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
 🌟 Passionate about turning data into intelligent insights<br/>
